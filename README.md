@@ -1,6 +1,6 @@
-# apps-payfast-woocommerce2-plugin
+# APPS PayFast Woocommerce Plugin ver. 3 plus
 
-APPS PayFast plugin for Woocommerce 2.x
+APPS PayFast plugin for Woocommerce 3.x plus
 
 Installation:
 
