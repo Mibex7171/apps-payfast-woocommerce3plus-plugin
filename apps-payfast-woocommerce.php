@@ -3,15 +3,15 @@
 /**
  * The plugin bootstrap file
  *
- * @link              http://www.apps.ne.pk
- * @since             0.9 Beta 
+ * @link              https://www.apps.net.pk
+ * @since             1.0 
  * @package           apps_payfast_Woocommerce
  *
  * @wordpress-plugin
- * Plugin Name:       APPS PayFast Gateway for Woocommerce
- * Plugin URI:        http://www.apps.net.pk
+ * Plugin Name:       APPS PayFast Gateway for Woocommerce - Sandbox
+ * Plugin URI:        https://github.com/apps-payfast/apps-payfast-woocommerce3plus-plugin
  * Description:       PayFast let's customer pay via local Pakistani banks
- * Version:           0.9 Beta Test
+ * Version:           1.0
  * Author:            APPS Tech Team
  * Author URI:        http://www.apps.net.pk
  * Text Domain:       apps-payfast-woocommerce
