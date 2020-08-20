@@ -15,7 +15,7 @@ class apps_payfast_Gateway_Request {
     }
 
     private function get_payment_url($sandbox = false) {
-        $payment_url = "https://ipguat.apps.net.pk:9778/Ecommerce/api/Transaction/PostTransaction";
+        $payment_url = "https://ipguat.apps.net.pk/Ecommerce/api/Transaction/PostTransaction";
         return $payment_url;
     }
 
